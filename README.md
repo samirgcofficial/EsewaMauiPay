@@ -6,7 +6,7 @@
 
 To start using the Esewa Payment Plugin in your .NET MAUI project, follow these simple steps:
 
- **Installation**: Install the Razor Payment Plugin NuGet package in your .NET MAUI project.
+ **Installation**: Install the Esewa Payment Plugin NuGet package in your .NET MAUI project.
    ```sh
   dotnet add package plugin.maui.esewa.min --version 1.0.0
 ```
