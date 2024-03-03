@@ -104,6 +104,10 @@ private readonly IEsewaPayServices _myserviceclient;
 ```
 
 # Unlock the Full Version
-Gain access to the entire plugin, free from the evaluation limitations, by supporting our project with a small contribution. Your support acknowledges our hard work and dedication 🥰. We suggest trying the evaluation copy before purchasing. Plus, I've made it affordable for all customers.
-[Support us](https://www.buymeacoffee.com/samirgc/e/222788)
+Gain access to the entire plugin, free from the evaluation popup limit, by supporting our project with a small contribution. Your support acknowledges our hard work and dedication 🥰. We suggest trying the evaluation copy before making a purchase. Plus, we've made it affordable for all customers.
+
+Upon completing your payment of RS 2,500 for our Esewa Payment Gateway Plugin, please provide your GitHub email address and bank receipt at 8ringsoft@gmail.com. Thank you.
+
+Click here https://xamaringuyshow.com/dotnet-maui-esewa-payment-gateway/
+
 
