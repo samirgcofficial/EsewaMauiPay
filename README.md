@@ -1,6 +1,7 @@
 # Esewa Maui Payment Gateway 
 
-![double](https://github.com/samirgcofficial/EsewaMauiPay/assets/55045516/4f9719bb-d8ea-485b-bb22-d20ce09c2fa4)
+![EsewaMAUI](https://github.com/samirgcofficial/EsewaMauiPay/assets/55045516/aefba531-daac-4974-a3eb-8007648a7c85)
+
 
 ## Getting Started
 
